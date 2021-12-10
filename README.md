@@ -95,6 +95,7 @@
 🔖 https://devhints.io <br>
 🔖 https://caiuse.com <br>
 🔖 https://bundlephobia.com <br>
+🔖 https://the-algorithms.com/ <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
