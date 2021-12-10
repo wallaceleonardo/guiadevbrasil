@@ -71,7 +71,7 @@
 🔖 https://cssbattle.dev <br>
 🔖 https://css-tricks.com/guides/ <br>
 🔖 https://csshell.dev/ (Coleção de erros comuns de CSS e como corrigi-los) <br>
-🔖 https://www.w3schools.com/ <br>
+🔖 https://www.w3schools.com/css/default.asp <br>
 
 ## 📚 GERADORES DE CSS:
 
