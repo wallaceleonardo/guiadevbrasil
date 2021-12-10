@@ -22,6 +22,8 @@
 🔖 Codepen: https://codepen.io/ <br>
 🔖 Codementor: https://www.codementor.io/ <br>
 🔖 FreeCodeCamp: https://www.freecodecamp.org/ <br>
+🔖 FreeCodeCampo: https://www.freecodecamp.org/portuguese/ <br>
+🔖 ScoolOfNet: https://www.schoolofnet.com/ <br>
 🔖 GeeksForGeeks: https://www.geeksforgeeks.org/ <br>
 🔖 W3Schools: https://www.w3schools.com/ <br>
 🔖 Khan Academy: https://pt.khanacademy.org/ <br>
@@ -31,6 +33,7 @@
 🔖 Treehouse: https://teamtreehouse.com/ <br>
 🔖 Tutorialspoint: https://www.tutorialspoint.com/ <br>
 🔖 Cod3r: https://cod3r.com.br/ <br>
+🔖 MDM Web Docs: https://developer.mozilla.org/pt-BR/docs/Web <br>
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
@@ -68,6 +71,7 @@
 🔖 https://cssbattle.dev <br>
 🔖 https://css-tricks.com/guides/ <br>
 🔖 https://csshell.dev/ (Coleção de erros comuns de CSS e como corrigi-los) <br>
+🔖 https://www.w3schools.com/ <br>
 
 ## 📚 GERADORES DE CSS:
 
@@ -96,6 +100,11 @@
 🔖 https://caiuse.com <br>
 🔖 https://bundlephobia.com <br>
 🔖 https://the-algorithms.com/ <br>
+🔖 https://overapi.com/ <br>
+🔖 https://devdocs.io/ <br>
+🔖 https://readme.so/pt <br>
+🔖 https://carbon.now.sh/ <br>
+🔖 https://pt.stackoverflow.com/ <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
@@ -367,7 +376,7 @@
 🔖 Curso de Java 2: https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r <br>
 🔖 Curso de Java 3: https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc <br>
 
-## 📚 CURSO DE JAVA SCRIPT:
+## 📚 CURSO DE JAVASCRIPT:
 
 🔖 Curso completo de Javascript (46 aulas): https://goo.gl/zfjfkQ <br>
 🔖 Curso de introdução ao Java script: https://youtu.be/i6Oi-YtXnAU <br>
