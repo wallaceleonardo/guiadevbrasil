@@ -34,6 +34,7 @@
 🔖 Tutorialspoint: https://www.tutorialspoint.com/ <br>
 🔖 Cod3r: https://cod3r.com.br/ <br>
 🔖 MDM Web Docs: https://developer.mozilla.org/pt-BR/docs/Web <br>
+🔖 Dive Into HTML5: https://diveintohtml5.com.br/
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
