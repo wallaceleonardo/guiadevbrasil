@@ -47,6 +47,7 @@
 🔖 https://sketch2code.azurewebsites.net/ (Site para geração de HTML automático a partir de um desenho ou rascunho da página a ser desenvolvida) <br>
 🔖 https://www.nvidia.com/pt-br/research/ai-playground/ (Site da NVidia para criação de imagens realistas a partir de um desenho amador) <br>
 🔖 https://www.autodraw.com/ (Site para criação de código a partir de um desenho) <br>
+🔖 https://openai.com/blog/dall-e/ (Site para criação de imagens a partir de textos digitados) <br>
 
 ## 📚 SITES PARA APRENDER A PROGRAMAR JOGANDO:
 
