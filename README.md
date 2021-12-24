@@ -46,6 +46,7 @@
 🔖 https://naevner.com (Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
 🔖 https://sketch2code.azurewebsites.net/ (Site para geração de HTML automático a partir de um desenho ou rascunho da página a ser desenvolvida) <br>
 🔖 https://www.nvidia.com/pt-br/research/ai-playground/ (Site da NVidia para criação de imagens realistas a partir de um desenho amador) <br>
+🔖 https://www.autodraw.com/ (Site para criação de código a partir de um desenho) <br>
 
 ## 📚 SITES PARA APRENDER A PROGRAMAR JOGANDO:
 
