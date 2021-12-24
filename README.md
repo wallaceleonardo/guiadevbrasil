@@ -109,6 +109,7 @@
 🔖 https://readme.so/pt <br>
 🔖 https://carbon.now.sh/ <br>
 🔖 https://pt.stackoverflow.com/ <br>
+🔖 https://copilot.github.com/ <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
