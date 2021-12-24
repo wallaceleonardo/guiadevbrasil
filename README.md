@@ -44,6 +44,7 @@
 🔖 https://bseline.is/tools/css-photo-filters/ (36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
 🔖 https://uideck.com (Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
 🔖 https://naevner.com (Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
+🔖 https://sketch2code.azurewebsites.net/ (Site para geração de HTML automático a partir de um desenho ou rascunho da página a ser desenvolvida) <br>
 
 ## 📚 SITES PARA APRENDER A PROGRAMAR JOGANDO:
 
