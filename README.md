@@ -112,6 +112,7 @@
 🔖 https://carbon.now.sh/ <br>
 🔖 https://pt.stackoverflow.com/ <br>
 🔖 https://copilot.github.com/ <br>
+🔖 https://codepen.io/ <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
