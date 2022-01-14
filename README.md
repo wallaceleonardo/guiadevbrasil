@@ -86,6 +86,7 @@
 🔖 https://www.bestcssbuttongenerator.com <br>
 🔖 https://html-css-js.com/css/generator/ <br>
 🔖 https://webcode.tools/ <br>
+🔖 https://meyerweb.com/eric/tools/css/reset/ <br>
 
 ## 📚 SITE PARA BUSCAR VAGAS REMOTAS:
 
