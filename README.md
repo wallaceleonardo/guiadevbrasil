@@ -216,7 +216,7 @@
 ## 📚 SITE DE DE PALETAS DE CORES:
 
 🔖 Paletton: https://paletton.com/ <br>
-🔖 Adobe Color: https://color.adobe.com/pt/create/color-wheel/ <br>
+🔖 Adobe Color: https://color.adobe.com/pt/ <br>
 🔖 Color Hunt: https://colorhunt.co/ <br>
 🔖 Happy Hues: https://www.happyhues.co/ <br>
 🔖 Coolors: https://coolors.co/ <br>
