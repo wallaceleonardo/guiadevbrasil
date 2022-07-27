@@ -59,6 +59,19 @@
 🔖 CodinGame: https://codingame.com <br>
 🔖 Edabit: https://edabit.com/challenges <br>
 
+## 📚 SITE PARA APRENDER ESSAS TECNOLOGIAS:
+
+🔖 HTML: https://html.com/ <br>
+🔖 CSS: https://css-tricks.com <br>
+🔖 JAVASCRIPT: https://javascript.info <br>
+🔖 PHP: https://php.net <br>
+🔖 BOOTSTRAP: https://getbootstrap.com <br>
+🔖 REACT: https://react-tutorial.app <br>
+🔖 ALGORITHMS: https://algorithm-visualizer.org <br>
+🔖 API: https://rapidapi.com/learn <br>
+🔖 Git & Github: https://learningbranching.js.org <br>
+🔖 MySQL: https://MySQL.com <br>
+
 ## 📚 TEMPLATES HTML GRATUITOS:
 
 🔖 https://bootstrapmade.com/ <br>
