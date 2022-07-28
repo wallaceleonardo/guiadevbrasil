@@ -225,6 +225,7 @@
 🔖 1001 fonts: https://www.1001fonts.com/ <br>
 🔖 Abstract fonts: https://www.abstractfonts.com/ <br>
 🔖 Fontget: https://www.fontget.com/ <br>
+🔖 Font Squirrel: https://www.fontsquirrel.com/ <br>
 
 ## 📚 SITE DE DE PALETAS DE CORES:
 
