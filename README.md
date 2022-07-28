@@ -266,7 +266,8 @@
 🔖 Shape: https://shape.so/ <br>
 🔖 Flaticon: https://www.flaticon.com/br/ <br>
 🔖 Bootstrap icons: https://icons.getbootstrap.com/ <br>
-🔖 devicon: https://devicon.dev/ <br>
+🔖 Devicon: https://devicon.dev/ <br>
+🔖 Eriksarti: https://erikasarti.com/html/dingbats-simbolos-desenhos/ <br>
 
 ## 📚 CANAIS DO YOUTUBE COM CONTEÚDO GRATUITO:
 
