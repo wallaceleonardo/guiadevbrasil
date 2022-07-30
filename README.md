@@ -227,6 +227,9 @@
 🔖 Fontget: https://www.fontget.com/ <br>
 🔖 Font Squirrel: https://www.fontsquirrel.com/ <br>
 
+## 📚 SITES PARA BAIXAR IMAGENS GRÁTIS:
+🔖 Pexels: https://www.pexels.com/pt-br/ <br>
+
 ## 📚 SITE DE DE PALETAS DE CORES:
 
 🔖 Paletton: https://paletton.com/ <br>
