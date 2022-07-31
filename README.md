@@ -273,6 +273,10 @@
 🔖 Devicon: https://devicon.dev/ <br>
 🔖 Eriksarti: https://erikasarti.com/html/dingbats-simbolos-desenhos/ <br>
 
+## 📚 SITE DE EMOJIs:
+
+🔖 emojipedia: https://emojipedia.org/ <br>
+
 ## 📚 CANAIS DO YOUTUBE COM CONTEÚDO GRATUITO:
 
 🔖 https://youtube.com/c/baltaio <br>
