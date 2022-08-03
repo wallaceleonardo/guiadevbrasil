@@ -134,6 +134,7 @@
 🔖 https://www.minimamente.com/project/magic/ <br>
 🔖 https://jonsuh.com/hamburgers/ <br>
 🔖 https://ianlunn.github.io/Hover/ <br>
+🔖 https://validator.w3.org/ <br>
 
 ## 📚 FERRAMENTAS PARA BUSCAR PROJETOS OPEN SOURCE:
 
@@ -230,6 +231,9 @@
 
 ## 📚 SITES PARA BAIXAR IMAGENS GRÁTIS:
 🔖 Pexels: https://www.pexels.com/pt-br/ <br>
+
+## 📚 SITES PARA TRATAR IMAGENS GRÁTIS:
+🔖 Remove bg: https://www.remove.bg/pt-br <br>
 
 ## 📚 SITE DE DE PALETAS DE CORES:
 
