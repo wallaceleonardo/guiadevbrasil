@@ -253,6 +253,9 @@
 🔖 Grabient: https://www.grabient.com/ <br>
 🔖 Pigment: https://pigment.shapefactory.co/ <br>
 🔖 WebGradient: https://webgradients.com/ <br>
+🔖 Uigradients: https://uigradients.com/ <br>
+🔖 Palettable: https://www.palettable.io/ <br>
+🔖 0to255: https://0to255.com/ <br>
 
 ## 📚 LISTA DE ILUSTRAÇÕES:
 
@@ -281,6 +284,8 @@
 🔖 Bootstrap icons: https://icons.getbootstrap.com/ <br>
 🔖 Devicon: https://devicon.dev/ <br>
 🔖 Eriksarti: https://erikasarti.com/html/dingbats-simbolos-desenhos/ <br>
+🔖 Iconmonstr: https://iconmonstr.com/ <br>
+🔖 Icomoon: https://icomoon.io/app/#/select <br>
 
 ## 📚 SITE DE EMOJIs:
 
