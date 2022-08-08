@@ -135,6 +135,8 @@
 🔖 https://jonsuh.com/hamburgers/ <br>
 🔖 https://ianlunn.github.io/Hover/ <br>
 🔖 https://validator.w3.org/ <br>
+🔖 https://animate.style/ <br>
+🔖 https://bennettfeely.com/clippy/ <br>
 
 ## 📚 FERRAMENTAS PARA BUSCAR PROJETOS OPEN SOURCE:
 
@@ -228,6 +230,9 @@
 🔖 Abstract fonts: https://www.abstractfonts.com/ <br>
 🔖 Fontget: https://www.fontget.com/ <br>
 🔖 Font Squirrel: https://www.fontsquirrel.com/ <br>
+🔖 Modularscale: https://www.modularscale.com/ <br>
+🔖 Transfonter: https://transfonter.org/ <br>
+🔖 MyFonts: https://www.myfonts.com/ <br>
 
 ## 📚 SITES PARA BAIXAR IMAGENS GRÁTIS:
 🔖 Pexels: https://www.pexels.com/pt-br/ <br>
@@ -364,6 +369,11 @@
 🔖 Web Developer <br>
 🔖 React Developer Tools <br>
 🔖 Window Resizer <br>
+🔖 ColorZilla <br>
+🔖 Fonts Ninja <br>
+🔖 Window Resizer <br>
+🔖 HTML Tree Generator <br>
+
 
 ## 📚 RECOMENDAÇÃO DE LIVROS:
 
